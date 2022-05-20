@@ -1,0 +1,2 @@
+
+((A and C) or (B or D)) and G and not E and (B or not E) and (H or ( I and J) or K) and not L and (M or A)
