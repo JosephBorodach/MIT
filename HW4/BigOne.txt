@@ -1,2 +1,0 @@
-(((A or B) or (not C)) and ((not D) or T))
-(((E and G) or (not F)) and ((not C) or T))
