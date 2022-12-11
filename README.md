@@ -1,1 +1,1 @@
-# MathForCS
+# MIT
